@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<self_init_config>
+
+<command_config name="泰国防串货" regionmark="TH" >
+      <main_property
+         ro.oppo.region.netlock="TH"
+       />
+</command_config>
+
+<command_config name="马来西亚防串货" regionmark="MY" >
+      <main_property
+         ro.oppo.region.netlock="MY"
+       />
+</command_config>
+
+<command_config name="印尼防串货" regionmark="ID" >
+      <main_property
+         ro.oppo.region.netlock="ID"
+       />
+</command_config>
+
+</self_init_config>
